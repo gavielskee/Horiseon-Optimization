@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+In this assignment, I modified the already existing code in order to meet accessibility standards. I did this by replacing a portion of <div> elements with <section> or the necessary tags like <header> or <footer>. In doing so, I had to change parts of CSS to correlate to the new elements that I had created. Furthermore, I had made sure that the images in the html file had 'alt' attributes attached to them. To top things off, I went through the code again and cleaned up what I deemed to be unnecessary. 
